@@ -1,0 +1,15 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview",
+    "list:articles": "zenn list:articles",
+    "list:books": "zenn list:books"
+  },
+  "devDependencies": {
+    "zenn-cli": "0.5.1"
+  }
+}
