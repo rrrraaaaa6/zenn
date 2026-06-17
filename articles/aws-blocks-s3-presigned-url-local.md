@@ -1,5 +1,5 @@
 ---
-title: "AWS BlocksでS3の署名付きURL構成を考える"
+title: "AWS Blocksを使って署名付きURLを試してみる"
 emoji: "🧱"
 type: "tech"
 topics: ["aws", "s3", "cdk", "react", "awsblocks"]
